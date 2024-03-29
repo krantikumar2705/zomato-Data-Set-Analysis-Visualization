@@ -18,11 +18,17 @@ Function to find famous cusine in Bangalore.
 HeatMap to show the restaurtant in bangalore and also in India.
 
 To find top cities restaurants in India.
+
 To find Top restaurants in bangalore cities.
+
 Explored the rating and cost of the restaurants.
+
 Online Accepting customers in restuarnts.
+
 Table Reservation facilities in Restaurants.
+
 Delivery options available in Restaurants.
+
 Opening and Midnight restaurants in Bangalore.
 
 # zomato-Data-Set-Analysis-Visualization
